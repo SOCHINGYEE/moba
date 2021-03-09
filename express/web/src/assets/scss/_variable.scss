@@ -1,0 +1,79 @@
+
+
+// 定义网站主要颜色
+$colors: (
+    "primary":#db9e3f,
+    "white":#fff,
+    "light":#f9f9f9,
+    "grey":#999,
+    "grey-dark":#666,
+    "light-dark":#343440,
+    "dark":#222,
+    "black":#000,
+    "blue":#4b67af,
+    "yellow":#f3c258,
+    "border":#f1f1f1f1,
+    "green":#5dd473,
+    "red":#e84a33
+
+
+
+);
+
+
+// font-size
+$base-font-size:1rem;
+$font-sizes: (
+    xxs:0.6154,  //8px
+    xs:0.7692, //10px
+    sm:0.9231, //12px
+    md:1,      //13px
+    lg:1.0769, //14px
+    xl:1.2308, //16px
+);
+
+
+
+$flex-justify-content:(
+    start:flex-start,
+    end:flex-end,
+    center:center,
+    between:space-between,
+    around:space-around,
+);
+
+
+$flex-align-item:(
+   start:flex-start,
+   end:flex-end,
+   center:center,
+   stretch:stretch 
+);
+
+
+
+
+// spacing
+$spacing-types:(
+    m:margin,
+    p:padding,
+
+    );
+
+$spacing-direction:(
+    t:top,
+    r:right,
+    b:bottom,
+    l:left
+);
+$spacing-base-size:1rem;
+$spacing-sizes:(
+    0:0,
+    1:0.25,
+    2:0.5,
+    3:1,
+    4:1.5,
+    5:3,
+);
+
+
