@@ -170,7 +170,7 @@
                 </div>
               </div>
 
-              <div class="slider"></div>
+              <!-- <div class="slider"></div> -->
       <!-- active下滑块 -->
       <!-- 标题导航结束 -->
       <div class="content pt-2">
